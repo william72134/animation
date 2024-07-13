@@ -1,0 +1,10 @@
+/ai-animation-app
+  /frontend
+    /public
+    /src
+    .gitignore
+    package.json
+  /backend
+    app.py
+    requirements.txt
+  README.md
